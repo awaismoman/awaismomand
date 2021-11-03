@@ -4,8 +4,8 @@ Awaismomand
 #coding=utf-8
 # Python Auto Dis Parser 1.1.0
 # Author : MARDAN KING| AWAIS KHAN
-# https://Wwwwwwwwwwww.Mizan.Vau8080
-# https://Wwwwwwwwwwww.Mizan.Vau8080
+# https://https://www.facebook.com/Mohmand.awais
+# https://https://www.facebook.com/Mohmand.awais
 # ------------------------------------------
 # Embedded File   : AWAIS
 # Python Bytecode : 2.7 (62211)
@@ -36,7 +36,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 rashed')
+    os.system('Then type: python2 awaisking.py')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -105,14 +105,17 @@ print  """
 \033[1;96m---------------------AWAIS---------------------
 
 \033[1;94mHACKING IS NOT CRIME IT’S A GAME AGAINST OF THE SYSTEM
-\033[1;94mCreater : \033[1;93mRASHED HOSSAIN
-\033[1;94mFrom: SHARIATPUR DHAKA BANGLADESH
+\033[1;94mCreater : \033[1;93AWAIS MOMAND
+\033[1;94mFrom: MARDAN HACKERS
 \033[1;94mWhatsapp NO: +27618543540
-\033[1;94mWARNING : USE PROXY INDONESIA FOR CLONING
-\033[1;94mWARNING : USE 4G NET AND 6GB RAM PHONE
-\033[1;94mFacebook id Name: \033[1;93mMD MIZAN KHALIFA
-\033[1;94mFacebook id link : \033[1;93mWwwwwwwwwwww.Mizan.Vau8080
-\033[1;94mIts Not A Name Its Brand \033[1;92mRashed
+\033[1;94mWARNING : USE PROXY IND
+
+
+
+\033[1;94mWARNING : USE 4G NET AND 4GB RAM PHONE
+\033[1;94mFacebook id Name: \033[1;93mMD AWAIS KHAN
+\033[1;94mFacebook id link : \033[1;93https://www.facebook.com/Mohmand.awais
+\033[1;94mIts Not A Name Its Brand \033[1;92AWAIS
 \033[1;94mNo Login Need Enjoy without any problem
 \033[1;95mSpeed Commands Country code
 
@@ -133,14 +136,14 @@ logo1 = """
 \033[1;96m---------------------AWAIS---------------------
 
 \033[1;94mHACKING IS NOT CRIME IT’S A GAME AGAINST OF THE SYSTEM
-\033[1;94mCreater : \033[1;93mRASHED HOSSAIN
-\033[1;94mFrom: SHARIATPUR DHAKA BANGLADESH
-\033[1;94mWhatsapp NO: +27618543540
-\033[1;94mWARNING : USE PROXY INDONESIA FOR CLONING
-\033[1;94mWARNING : USE 4G NET AND 6GB RAM PHONE
-\033[1;94mFacebook id Name: \033[1;93mMD MIZAN KHALIFA
-\033[1;94mFacebook id link : \033[1;93mWwwwwwwwwwww.Mizan.Vau8080
-\033[1;94mIts Not A Name Its Brand \033[1;92mRashed
+\033[1;94mCreater : \033[1;93AWAIS MOMAND
+\033[1;94mFrom: TORDHER TAHTBAHI MARDAN
+\033[1;94mWhatsapp NO:03173725015
+\033[1;94mWARNING : NO NEED PROXY
+\033[1;94mWARNING : USE 4G NET AND 4GB RAM PHONE
+\033[1;94mFacebook id Name: \033[1;93mMD AWAIS MOMAND
+\033[1;94mFacebook id link : \033[1;93https://www.facebook.com/Mohmand.awais
+\033[1;94mIts Not A Name Its Brand \033[1;92A AWAIS
 \033[1;94mNo Login Need Enjoy without any problem
 \033[1;95mSpeed Commands Country code
 
@@ -158,7 +161,7 @@ logo2 = """
 \033[1;96m---------------------AWAISMOMAND---------------------
 
 \033[1;94mHACKING IS NOT CRIME IT’S A GAME AGAINST OF THE SYSTEM
-\033[1;94mCreater : \033[1;93mRASHED HOSSAIN
+\033[1;94mCreater : \033[1;93mAWAIS MOMAND
 \033[1;94mFrom: FROM TAKHTBAHI MARDAN PAKISTAN
 \033[1;94mWhatsapp NO: 03173725015
 \033[1;94mWARNING : USE PROXY INDONESIA FOR CLONING
@@ -406,8 +409,8 @@ if __name__ == '__main__':
 #coding=utf-8
 # Python Auto Dis Parser 1.1.0
 # Author : MARDAN KING| AWAIS KHAN
-# https://Wwwwwwwwwwww.Mizan.Vau8080
-# https://Wwwwwwwwwwww.Mizan.Vau8080
+# https://Wwwwwwwwwwww.AWAIS.Vau8080
+# https://Wwwwwwwwwwww.AWAIS.Vau8080
 # ------------------------------------------
 # Embedded File   : AWAIS
 # Python Bytecode : 2.7 (62211)
@@ -438,7 +441,10 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 rashed')
+    os.system('Then type: python2 AWAIS')
+
+
+')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -496,12 +502,12 @@ vuln = "\033[32mVuln"
 
 os.system("clear")
 print  """
-\033[1;95m░█▀▀█ ─█▀▀█ ░█▀▀▀█ ░█─░█ ░█▀▀▀ ░█▀▀▄ 
-\033[1;95m░█▄▄▀ ░█▄▄█ ─▀▀▀▄▄ ░█▀▀█ ░█▀▀▀ ░█─░█ 
+\033[1;95m░
+\033[1;95m░ ᎪᏔᎪᏆՏᎷϴᎷᎪΝᎠ
 \033[1;95m░█─░█ ░█─░█ ░█▄▄▄█ ░█─░█ ░█▄▄▄ ░█▄▄▀
 \033[1;95m
 \033[1;95m░█─░█ ░█▀▀▀█ ░█▀▀▀█ ░█▀▀▀█ ─█▀▀█ ▀█▀ ░█▄─░█ 
-\033[1;95m░█▀▀█ ░█──░█ ─▀▀▀▄▄ ─▀▀▀▄▄ ░█▄▄█ ░█─ ░█░█░█ 
+\033[1;95m░█▀▀█ ░█──░█ ᎷϴᎷᎪΝᎠ 
 \033[1;95m░█─░█ ░█▄▄▄█ ░█▄▄▄█ ░█▄▄▄█ ░█─░█ ▄█▄ ░█──▀█
 
 \033[1;96m---------------------AWAIS---------------------
@@ -512,9 +518,9 @@ print  """
 \033[1;94mWhatsapp NO: +27618543540
 \033[1;94mWARNING : USE PROXY INDONESIA FOR CLONING
 \033[1;94mWARNING : USE 4G NET AND 6GB RAM PHONE
-\033[1;94mFacebook id Name: \033[1;93mMD MIZAN KHALIFA
-\033[1;94mFacebook id link : \033[1;93mWwwwwwwwwwww.Mizan.Vau8080
-\033[1;94mIts Not A Name Its Brand \033[1;92mRashed
+\033[1;94mFacebook id Name: \033[1;93mMD ᎪᏔϘᏆՏ ᎷϴᎷᎪΝᎠ
+\033[1;94mFacebook id link : \033[1;93https://www.facebook.com/Mohmand.awais
+\033[1;94mIts Not A Name Its Brand \033[1;92mawais
 \033[1;94mNo Login Need Enjoy without any problem
 \033[1;95mSpeed Commands Country code
 
